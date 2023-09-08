@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 993066f9f76a9a84a845c3a869d95be9
+guid: e5d85c746a7f747409975df1dd4da0b2
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -119,9 +119,9 @@ ScriptedImporter:
     tessellationDetail: 0
     uvTransform: {x: 0, y: 0}
   animatedSpriteImportData:
-  - name: BrickBorderBottom
+  - name: Sprite-0004
     originalName: 
-    pivot: {x: 0.5, y: -5.736842}
+    pivot: {x: 0.5, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
@@ -129,8 +129,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 128
-      height: 19
-    spriteID: 339f58c2583f9bd4d90b00d65a91eb24
+      height: 128
+    spriteID: e29739f4a0a470b489902d8da83fec03
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -142,20 +142,20 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 339033306
-    name: BrickBorderBottom
+    guid: -572922402
+    name: Sprite-0004
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: BrickBorderBottom
+    - name: Sprite-0004
       frameIndex: 0
       cellRect:
         x: 0
-        y: 109
+        y: 0
         width: 128
-        height: 19
-      spriteId: 339f58c2583f9bd4d90b00d65a91eb24
+        height: 128
+      spriteId: e29739f4a0a470b489902d8da83fec03
     linkedCells: []
     parentIndex: -1
   platformSettings: []
